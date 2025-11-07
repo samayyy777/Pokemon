@@ -14,9 +14,8 @@ ID	Nombre		Tipo
 0013			
 0014	Kakuna		Bicho
 0015			
-0016			
+0016	Pidgey		Volador
 0017			
 0018			
 0019	Rattata		Normal
-0020
-Raticate
+0020    Raticate        Normal

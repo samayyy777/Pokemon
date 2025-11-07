@@ -3,6 +3,12 @@ Slot	Nick		Nivel	ID
 2				
 3				
 4				
-5				
-6				Rattata nivel 10
-Raticate nivel 21
+5	Sonia			
+6	Rattata nivel 10
+        
+        Liernie
+        Raticate nivel 21
+Jon
+Pidgey nivel 8
+Rattata nivel 5
+
