@@ -5,3 +5,4 @@ Slot	Nick		Nivel	ID
 4				
 5				
 6				Rattata nivel 10
+Raticate nivel 21
