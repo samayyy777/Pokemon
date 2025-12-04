@@ -19,3 +19,4 @@ ID	Nombre		Tipo
 0018			
 0019	Rattata		Normal
 0020    Raticate        Normal
+Shiny
