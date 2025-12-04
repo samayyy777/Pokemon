@@ -13,7 +13,7 @@ ID	Nombre		Tipo
 0012			
 0013			
 0014	Kakuna		Bicho
-0015			
+0015	Bedrill		Bicho/Volador
 0016	Pidgey		Volador
 0017			
 0018			
